@@ -1,0 +1,9 @@
+[submodule "social-sense-graphql"]
+	path = social-sense-graphql
+	url = https://github.com/MagnificRogue/social-sense-graphql.git
+[submodule "social-sense-query"]
+	path = social-sense-query
+	url = https://github.com/MagnificRogue/social-sense-query.git
+[submodule "social-sense-data"]
+	path = social-sense-data
+	url = https://github.com/huzhaoheng/DataProcessing.git
